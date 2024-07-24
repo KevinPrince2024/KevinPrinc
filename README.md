@@ -44,6 +44,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/KevinPrince2024/KevinPrince2024/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -53,6 +55,18 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ipm.com.br%2Fnoticias%2Fvoce-sabe-o-que-um-programador-de-sistemas-faz%2F&psig=AOvVaw2vold7TnheUMCVeLyUtsT7&ust=1721869739090000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMC28-q-vocDFQAAAAAdAAAAABAK"  />
+</div>
+
+###
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
